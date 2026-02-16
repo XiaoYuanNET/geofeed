@@ -1,0 +1,25 @@
+# Start of XiaoYuan Networks
+2a14:7581:0fe6::/48,CN,CN-GX,Nanning,
+2a14:7583:e000::/40,CN,CN-GX,Nanning,
+2a14:7581:0fe6:f086::/64,GB,GB-ENG,London,
+2a14:7581:0fe6:2b2c::/64,IE,IE-L,Dublin,
+2a14:7581:0fe6:4544::/64,NL,NL-NH,Amsterdam,
+2a14:7581:0fe6:53f8::/64,KP,KP-01,Pyongyang,
+2a14:7581:0fe6:7228::/64,AQ,,"McMurdo Station",
+2a14:7583:e05d::/48,US,US-CA,"Los Angeles",
+2a14:7583:e05d:914b::/64,US,US-CA,"San Jose",
+2a14:7583:e05d:0365::/64,US,US-WA,Seattle,
+# End of XiaoYuan Networks
+# Start of SiiWay Networks
+2a14:7583:e0e0::/48,CN,CN-GZ,Guiyang,
+2a14:7583:e0e0:326b::/64,CN,CN-BJ,Beijing,
+2a14:7583:e0e0:d6a4::/64,CN,CN-SH,Shanghai,
+2a14:7583:e0e0:eae3::/64,CN,CN-GD,Guangzhou,
+2a14:7583:e0e0:dad5::/64,CN,CN-GX,Nanning,
+2a14:7583:e0e0:9972::/64,HK,HK-HKS,"Hong Kong",
+2a14:7583:e0e0:3e80::/64,MO,MO-MO,Macau,
+2a14:7583:e0e0:be5f::/64,TW,TW-TPE,Taipei,
+2a14:7583:e0e0:fc6d::/64,KR,KR-11,Seoul,
+2a14:7583:e0e0:19a3::/64,KP,KP-01,Pyongyang,
+2a14:7583:e0e0:07da::/64,AQ,,"McMurdo Station",
+# End of SiiWay Networks
